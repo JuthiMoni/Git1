@@ -1,2 +1,2 @@
-# Git1
-This is my 1st git
+# Spring-Boot-thymeleaf-view
+
